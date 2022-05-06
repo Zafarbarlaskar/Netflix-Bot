@@ -1,23 +1,24 @@
 class script(object):
     START_TXT = """<b>Hᴇʟʟᴏ {}
     
-Sᴏʀʀʏ ɪ ᴏɴʟʏ ᴡᴏʀᴋ ᴏɴ <a href='https://t.me/Netflix_Movies_Group'>ɴᴇᴛғʟɪx ᴍᴏᴠɪᴇs</a> Gʀᴏᴜᴘ. Nᴏ ᴏᴛʜᴇʀ ᴄᴏᴍᴍᴀɴᴅ ᴡɪʟʟ ᴡᴏʀᴋ ᴏɴ ᴛʜɪs ʙᴏᴛ ᴇxᴄᴇᴘᴛ sᴛᴀʀᴛ. ᴅᴏɴ’ᴛ ᴡᴀsᴛᴇ ʏᴏᴜʀ ᴛɪᴍᴇ</b>
+Sᴏʀʀʏ ɪ ᴏɴʟʏ ᴡᴏʀᴋ ᴏɴ <a href='https://t.me/Request_Corner'>Rᴇǫᴜᴇsᴛ Cᴏʀɴᴇʀ</a> Gʀᴏᴜᴘ. Nᴏ ᴏᴛʜᴇʀ ᴄᴏᴍᴍᴀɴᴅ ᴡɪʟʟ ᴡᴏʀᴋ ᴏɴ ᴛʜɪs ʙᴏᴛ ᴇxᴄᴇᴘᴛ sᴛᴀʀᴛ. ᴅᴏɴ’ᴛ ᴡᴀsᴛᴇ ʏᴏᴜʀ ᴛɪᴍᴇ</b>
 """
     HELP_TXT = """<b>Hᴇʟʟᴏ {}
     
-Sᴏʀʀʏ ɪ ᴏɴʟʏ ᴡᴏʀᴋ ᴏɴ <a href='https://t.me/Netflix_Movies_Group'>ɴᴇᴛғʟɪx ᴍᴏᴠɪᴇs</a> Gʀᴏᴜᴘ. Nᴏ ᴏᴛʜᴇʀ ᴄᴏᴍᴍᴀɴᴅ ᴡɪʟʟ ᴡᴏʀᴋ ᴏɴ ᴛʜɪs ʙᴏᴛ ᴇxᴄᴇᴘᴛ sᴛᴀʀᴛ. ᴅᴏɴ’ᴛ ᴡᴀsᴛᴇ ʏᴏᴜʀ ᴛɪᴍᴇ</b>"""
+Sᴏʀʀʏ ɪ ᴏɴʟʏ ᴡᴏʀᴋ ᴏɴ <a href='https://t.me/Request_Corner'>Rᴇǫᴜᴇsᴛ Cᴏʀɴᴇʀ</a> Gʀᴏᴜᴘ. Nᴏ ᴏᴛʜᴇʀ ᴄᴏᴍᴍᴀɴᴅ ᴡɪʟʟ ᴡᴏʀᴋ ᴏɴ ᴛʜɪs ʙᴏᴛ ᴇxᴄᴇᴘᴛ sᴛᴀʀᴛ. ᴅᴏɴ’ᴛ ᴡᴀsᴛᴇ ʏᴏᴜʀ ᴛɪᴍᴇ</b>"""
     ABOUT_TXT = """<b>⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟
     
 • ꜰᴜʟʟ ɴᴀᴍᴇ : sᴀʀᴀᴛʜɪ
-• ᴜꜱᴇʀɴᴀᴍᴇ : @Sarathi_admin
-• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='https://t.me/Sarathi_admin'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
+• ᴜꜱᴇʀɴᴀᴍᴇ : @zsbhere
+• Cʀᴀᴅɪᴛ : @X_Kunal_01
+• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='https://t.me/zsbhere'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
 “ Failure is an option here. If things are not failing, you are not innovating enough. ”</b>"""
     SOURCE_TXT = """<b>NOTE:</b>
 
-- ഇപ്പൊ കിട്ടും നോക്കി ഇരുന്നോ .
+- Bhaag Yaha se Kuch nahi milega .
 
 <b>DEVS:</b>
-- <a href=https://t.me/ss_linkz>ss ʟɪɴᴋᴢ</a>"""
+- <a href=https://t.me/zsbhere>Dare Devil</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and 𝕋𝔼𝕊𝕊𝔸 will respond whenever a keyword is found the message
@@ -98,12 +99,12 @@ This module only works for my admins
 👥 ɢʀᴏᴜᴘs: <code>{}</code>
 📉 ᴏᴄᴄᴜᴘɪᴇᴅ: <code>{}</code> """
  
-    LOG_TEXT_G = """📮 ᴄᴏʙʏ ʙᴏᴛ #NewGroup
+    LOG_TEXT_G = """📮 ʙᴏᴛ #NewGroup
 Group = {}(<code>{}</code>)
 Total Members = <code>{}</code>
 Added By - {}
 """
-    LOG_TEXT_P = """📮 ᴄᴏʙʏ ʙᴏᴛ #NewUser
+    LOG_TEXT_P = """📮 ʙᴏᴛ #NewUser
 ID - <code>{}</code>
 Name - {}
 """
