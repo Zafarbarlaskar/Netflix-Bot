@@ -23,7 +23,7 @@ async def start(client, message):
     if message.chat.type in ['group', 'supergroup']:
         buttons = [
             [
-                InlineKeyboardButton('sᴜᴘᴘᴏʀᴛ', url='https://t.me/ss_linkz')
+                InlineKeyboardButton('sᴜᴘᴘᴏʀᴛ', url='https://t.me/https://t.me/chatcorner_1519')
             ],
             [
                 InlineKeyboardButton('ʜᴇʟᴘ', url=f"https://t.me/{temp.U_NAME}?start=help"),
