@@ -8,7 +8,7 @@ Sᴏʀʀʏ ɪ ᴏɴʟʏ ᴡᴏʀᴋ ᴏɴ <a href='https://t.me/Request_Corner'>
 Sᴏʀʀʏ ɪ ᴏɴʟʏ ᴡᴏʀᴋ ᴏɴ <a href='https://t.me/Request_Corner'>Rᴇǫᴜᴇsᴛ Cᴏʀɴᴇʀ</a> Gʀᴏᴜᴘ. Nᴏ ᴏᴛʜᴇʀ ᴄᴏᴍᴍᴀɴᴅ ᴡɪʟʟ ᴡᴏʀᴋ ᴏɴ ᴛʜɪs ʙᴏᴛ ᴇxᴄᴇᴘᴛ sᴛᴀʀᴛ. ᴅᴏɴ’ᴛ ᴡᴀsᴛᴇ ʏᴏᴜʀ ᴛɪᴍᴇ</b>"""
     ABOUT_TXT = """<b>⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟
     
-• ꜰᴜʟʟ ɴᴀᴍᴇ : sᴀʀᴀᴛʜɪ
+• ꜰᴜʟʟ ɴᴀᴍᴇ : Zᴀғᴀʀ
 • ᴜꜱᴇʀɴᴀᴍᴇ : @zsbhere
 • ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='https://t.me/zsbhere'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
 “ Failure is an option here. If things are not failing, you are not innovating enough. ”</b>"""
