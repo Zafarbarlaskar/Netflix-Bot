@@ -10,7 +10,6 @@ Sᴏʀʀʏ ɪ ᴏɴʟʏ ᴡᴏʀᴋ ᴏɴ <a href='https://t.me/Request_Corner'>
     
 • ꜰᴜʟʟ ɴᴀᴍᴇ : sᴀʀᴀᴛʜɪ
 • ᴜꜱᴇʀɴᴀᴍᴇ : @zsbhere
-• Cʀᴀᴅɪᴛ : @X_Kunal_01
 • ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='https://t.me/zsbhere'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
 “ Failure is an option here. If things are not failing, you are not innovating enough. ”</b>"""
     SOURCE_TXT = """<b>NOTE:</b>
