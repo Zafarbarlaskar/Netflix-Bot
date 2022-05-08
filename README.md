@@ -1,4 +1,4 @@
-#Zafarbarlaskar_FILTER_BOT
+#ZAFAR_FILTER_BOT
 
 Help: Admin mods
 
