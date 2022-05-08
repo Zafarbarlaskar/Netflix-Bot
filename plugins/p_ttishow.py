@@ -53,7 +53,7 @@ async def save_group(bot, message):
                         await (temp.MELCOW['welcome']).delete()
                     except:
                         pass
-                temp.MELCOW['welcome'] = await message.reply(f"<b>ʜᴇʏ, {u.mention}, ᴡᴇʟᴄᴏᴍᴇ {message.chat.title} ғʀɪᴇɴᴅɪɴᴇ ᴏᴋᴋᴇ ɢʀᴏᴜᴘɪʟ ᴀᴅᴅ ᴀᴀᴋᴋɪ ᴘᴇᴡᴇʀ ᴀᴋᴋᴇɴɴᴇ 💖</b>")
+                temp.MELCOW['welcome'] = await message.reply(f"<b>ʜᴇʏ, {u.mention}, ᴡᴇʟᴄᴏᴍᴇ {message.chat.title} EɴJᴏʏ Uɴʟɪᴍɪᴛᴇᴅ Mᴏᴠɪᴇs Aɴᴅ Sᴇʀɪᴇs Hᴇʀᴇ 💖</b>")
 
 
 @Client.on_message(filters.command('leave') & filters.user(ADMINS))
@@ -67,7 +67,7 @@ async def leave_a_chat(bot, message):
         chat = chat
     try:
         buttons = [[
-            InlineKeyboardButton('Support', url=f'https://t.me/{SUPPORT_CHAT}')
+            InlineKeyboardButton('Support', url=f'https://t.me/Request_Corner')
         ]]
         reply_markup=InlineKeyboardMarkup(buttons)
         await bot.send_message(
@@ -106,7 +106,7 @@ async def disable_chat(bot, message):
     await message.reply('Chat Successfully Disabled')
     try:
         buttons = [[
-            InlineKeyboardButton('Support', url=f'https://t.me/{SUPPORT_CHAT}')
+            InlineKeyboardButton('Support', url=f'https://t.me/Request_Corner')
         ]]
         reply_markup=InlineKeyboardMarkup(buttons)
         await bot.send_message(
